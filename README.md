@@ -17,6 +17,7 @@ Perhatikan untuk add, change dan destroy
 =====================================
 
 # Hasil dari assigment
-Url : http://34.101.197.236:5000/
+[Url] : http://34.101.197.236:5000/
 
-image.png
+![image](https://user-images.githubusercontent.com/80587939/169573450-e47903a3-696e-4dd8-8ab5-d10c99ff56e6.png)
+
